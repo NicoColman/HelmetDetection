@@ -1,0 +1,5 @@
+.venv
+Set
+runs
+*.zip
+yolov8x.pt
